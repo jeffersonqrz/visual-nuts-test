@@ -1,0 +1,57 @@
+[
+	{
+		"country": "US",
+		"languages": [
+			"en"
+		]
+	},
+	{
+		"country": "BR",
+		"languages": [
+			"pt"
+		]
+	},
+	{
+		"country": "PT",
+		"languages": [
+			"pt"
+		]
+	},
+	{
+		"country": "MX",
+		"languages": [
+			"es"
+		]
+	},
+	{
+		"country": "DE",
+		"languages": [
+			"de"
+		]
+	},
+	{
+		"country": "ES",
+		"languages": [
+			"es"
+		]
+	},
+	{
+		"country": "IS",
+		"languages": [
+			"is"
+		]
+	},
+	{
+		"country": "DO",
+		"languages": [
+			"es"
+		]
+	},
+	{
+		"country": "SD",
+		"languages": [
+			"en",
+			"ar"
+		]
+	}
+]
