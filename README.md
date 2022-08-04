@@ -8,7 +8,7 @@ The result of challanges from Visual Nuts
 
 
 ## Some Notes
-- This project is using the last available version of Spring Boot.
+- This project is using the latest available version of Spring Boot.
 - The project is using the Java 17 version 
 - The output results of the exercises are printing to the console using the last version of slf4j
 - There is an implemention using the [Records](https://docs.oracle.com/en/java/javase/14/language/records.html) 
